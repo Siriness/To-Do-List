@@ -19,7 +19,29 @@ A simple and intuitive To-Do List application built with **React** and **Vite**.
 - **CSS**: For styling the application.
 
 ## How to Run Locally
+---
+1. **Cloning the Repository**:
+   - Added the correct repository URL: `https://github.com/Siriness/To-Do-List.git`.
 
-1. **Clone the Repository**:
+2. **Running the App**:
+   - Added steps to navigate to the project directory (`cd To-Do-List`), install dependencies (`npm install`), and start the development server (`npm run dev`).
+
+3. **Folder Structure**:
+   - Included a clear folder structure for reference.
+
+4. **Customization**:
+   - Added ideas for extending the app (e.g., due dates, filtering, sorting).
+
+5. **Contributing**:
+   - Added steps for contributing to the project.
+
+---
+
+### **Next Steps**
+1. Save this content in a file named `README.md` in the root of your project.
+2. Push the changes to your GitHub repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git add README.md
+   git commit -m "Add README file"
+   git push origin main
+
